@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\gsowm\GSN\Document-Scanner-CPP\Document-Scanner\Project1\Source.cpp(38,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gsowm\GSN\Document-Scanner-CPP\Document-Scanner\Project1\Source.cpp(45,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gsowm\GSN\Document-Scanner-CPP\Document-Scanner\Project1\Source.cpp(100,56): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\gsowm\GSN\Document-Scanner-CPP\Document-Scanner\Project1\Source.cpp(100,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Project1.vcxproj -> C:\Users\gsowm\GSN\Document-Scanner-CPP\Document-Scanner\x64\Debug\Project1.exe
