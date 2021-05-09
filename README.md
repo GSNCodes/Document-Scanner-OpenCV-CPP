@@ -9,6 +9,7 @@ When a path to a document image is provided, the following processes take place 
 
 ## Notes
 
- * The source can be found within the "Project1" folder.
+ * The source file can be found within the "Project1" folder and is named "Source.cpp".
+ * The test images are also present in the same folder given above.
  * The code is no way perfect. You need to tweak the size of the image to get accurate outputs.
  * This work serves as a guide to perform image manipulations in C++.
