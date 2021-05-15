@@ -1,6 +1,6 @@
 ## Document - Scanner
 
-This repository contains code for a basica scanning application.  
+This repository contains code for a basic scanning application.  
 When a path to a document image is provided, the following processes take place :-  
   * The biggest contours is assumed to be the document and hence it is first obtained.
   * The corner points are re-ordered according to the warp function's needs.
